@@ -50,20 +50,43 @@ include('inc/header.php')
                         </div> <!-- end slide-inner -->
                     </div> <!-- end swiper-slide -->
                     <div class="swiper-slide">
-                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/cs11.jpeg">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/media/5.jpg">
                             <div class="container">
                                 <div data-swiper-parallax="200" class="slide-thumb">
                                     <span>ACOMIN</span>
                                 </div>
                                 <div data-swiper-parallax="300" class="slide-title">
-                                    <h2>Orientation Programmes</h2>
+                                    <h2>Media Meeting</h2>
+                                </div>
+                                <div data-swiper-parallax="400" class="slide-text">
+                                <p>Community Led Monitoring Project on Malaria</p>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div data-swiper-parallax="500" class="slide-btns">
+                                    <a href="#" class="theme-btn">Donate Now<i class="fa fa-angle-double-right" aria-hidden="true"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="slide-shape">
+                                <img src="assets/images/shape/shape.png" alt="">
+                            </div>
+                        </div> <!-- end slide-inner -->
+                    </div> <!-- end swiper-slide -->
+                    <div class="swiper-slide">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/media/4.jpg">
+                            <div class="container">
+                                <div data-swiper-parallax="200" class="slide-thumb">
+                                    <span>Media Engagements</span>
+                                </div>
+                                <div data-swiper-parallax="300" class="slide-title">
+                                    <h2>Media Meeting</h2>
                                 </div>
                                 <div data-swiper-parallax="400" class="slide-text">
                                 <p>Civil Society for Malaria Intervention, Immunization and Nutrition</p>
                                 </div>
                                 <div class="clearfix"></div>
                                 <div data-swiper-parallax="500" class="slide-btns">
-                                    <a href="#" class="theme-btn">Donate Now<i class="fa fa-angle-double-right" aria-hidden="true"></i>
+                                    <!-- <a href="#" class="theme-btn">Donate Now<i class="fa fa-angle-double-right" aria-hidden="true"></i> -->
                                     </a>
                                 </div>
                             </div>
@@ -80,6 +103,94 @@ include('inc/header.php')
         </section>
         
         <div class="case-area section-padding">
+        <div class="container">
+                <div class="col-md-6 col-md-offset-3">
+                    <div class="section-title section-title2 text-center">
+                        <div class="thumb-text">
+                            <span>GALLERY </span>
+                        </div>
+                        <h2>Media Meetings Across States</h2>
+                      
+                    </div>
+                </div>
+                
+                <!--New Uploads-->
+                
+                 <div class="row">
+                 
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/m6.jpeg" alt="">  
+                        <caption>Niger State</caption>                                  
+                    </div> 
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/m7.jpeg" alt="">                                    
+                    </div> 
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/m3.jpeg" alt=""> 
+                                                         
+                    </div>
+                </div> <br>
+                 <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/m4.jpeg" alt="">  
+                        <caption>Ogun State</caption>                                    
+                    </div> 
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/m5.jpeg" alt="">                                    
+                    </div> 
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/m6.jpeg" alt="">                                    
+                    </div>
+                </div> <br>
+               
+                
+            </div>
+        <div class="container">
+                <div class="col-md-6 col-md-offset-3">
+                    <div class="section-title section-title2 text-center">
+                        <div class="thumb-text">
+                            <span>GALLERY </span>
+                        </div>
+                        <h2>FOCUS GROUP DISCUSSIONS (FGD)</h2>
+                      
+                    </div>
+                </div>
+                
+                <!--New Uploads-->
+                 <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/f2.jpeg" alt="">                                    
+                    </div> 
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/f11.jpeg" alt="">                                    
+                    </div> 
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/f3.jpeg" alt="">                                    
+                    </div>
+                </div> <br>
+                 <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/f4.jpeg" alt="">                                    
+                    </div> 
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/f5.jpeg" alt="">                                    
+                    </div> 
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/f6.jpeg" alt="">                                    
+                    </div>
+                </div> <br>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/f7.jpeg" alt="">                                    
+                    </div> 
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/f8.jpeg" alt="">                                    
+                    </div> 
+                    
+                </div> <br>
+                
+                
+            </div>
             <div class="container">
                 <div class="col-md-6 col-md-offset-3">
                     <div class="section-title section-title2 text-center">
@@ -187,6 +298,55 @@ include('inc/header.php')
             </div>
         </div>
         <!-- case-area-end -->
+
+        <div class="container">
+                <div class="col-md-6 col-md-offset-3">
+                    <div class="section-title section-title2 text-center">
+                        <div class="thumb-text">
+                            <span>GALLERY </span>
+                        </div>
+                        <h2>FOCUS GROUP DISCUSSIONS (FGD)</h2>
+                      
+                    </div>
+                </div>
+                
+                <!--New Uploads-->
+                 <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/f2.jpeg" alt="">                                    
+                    </div> 
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/f11.jpeg" alt="">                                    
+                    </div> 
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/f3.jpeg" alt="">                                    
+                    </div>
+                </div> <br>
+                 <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/f4.jpeg" alt="">                                    
+                    </div> 
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/f5.jpeg" alt="">                                    
+                    </div> 
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/f6.jpeg" alt="">                                    
+                    </div>
+                </div> <br>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/f7.jpeg" alt="">                                    
+                    </div> 
+                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">                       
+                        <img src="assets/images/media/f8.jpeg" alt="">                                    
+                    </div> 
+                    
+                </div> <br>
+                
+                
+            </div>
+            
+        </div>
       
         <div class="event-area section-padding">
             <div class="container">

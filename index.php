@@ -28,10 +28,10 @@ include('inc/header.php')
                         </div> <!-- end slide-inner -->
                     </div> <!-- end swiper-slide -->
                     <div class="swiper-slide">
-                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/cs11.jpeg">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/media/2.jpg">
                             <div class="container">
                                 <div data-swiper-parallax="200" class="slide-thumb">
-                                    <span>ACOMIN</span>
+                                    <span>What we do</span>
                                 </div>
                                 <div data-swiper-parallax="300" class="slide-title">
                                     <h2>Malaria Intervention</h2>
@@ -50,20 +50,42 @@ include('inc/header.php')
                         </div> <!-- end slide-inner -->
                     </div> <!-- end swiper-slide -->
                     <div class="swiper-slide">
-                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/conf.jpg">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/media/8.jpg">
+                            <div class="container">
+                                <div data-swiper-parallax="200" class="slide-thumb">
+                                    <span>Ongoing Project</span>
+                                </div>
+                                <div data-swiper-parallax="300" class="slide-title">
+                                    <h2>Community Led Monitoring</h2>
+                                </div>
+                                <div data-swiper-parallax="400" class="slide-text">
+                                <p>Project on Malaria <br>Improving Healthcare One community at a time</p>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div data-swiper-parallax="500" class="slide-btns">
+                                    <a href="causes.php" class="theme-btn">Our Programmes<i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                            <div class="slide-shape">
+                                <img src="assets/images/shape/shape.png" alt="">
+                            </div>
+                        </div> <!-- end slide-inner -->
+                    </div> <!-- end swiper-slide -->
+                    <div class="swiper-slide">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/media/1.jpg">
                             <div class="container">
                                 <div data-swiper-parallax="200" class="slide-thumb">
                                     <span>ACOMIN</span>
                                 </div>
                                 <div data-swiper-parallax="300" class="slide-title">
-                                    <h2>Orientation Programmes</h2>
+                                    <h2>Quarterly Media Meeting</h2>
                                 </div>
                                 <div data-swiper-parallax="400" class="slide-text">
                                 <p>Civil Society for Malaria Intervention, Immunization and Nutrition</p>
                                 </div>
                                 <div class="clearfix"></div>
                                 <div data-swiper-parallax="500" class="slide-btns">
-                                    <a href="#" class="theme-btn">Donate Now<i class="fa fa-angle-double-right" aria-hidden="true"></i>
+                                    <a href="#" class="theme-btn">See More<i class="fa fa-angle-double-right" aria-hidden="true"></i>
                                     </a>
                                 </div>
                             </div>
@@ -111,26 +133,7 @@ include('inc/header.php')
                                 organizations involved in interventions in malaria, immunization and nutritional issues.
                             </p>
                             <a class="theme-btn-s2" href="about.php">Learn More</a>
-                            <!-- <div class="ab-icon-area">
-                                <div class="about-icon-wrap">
-                                    <div class="about-icon-item">
-                                        <div class="ab-icon">
-                                            <img draggable="false" src="assets/images/about/1.png" alt="">
-                                        </div>
-                                        <div class="ab-text">
-                                            <h2><a href="causes-single.html">Save <br> Children.</a></h2>
-                                        </div>
-                                    </div>
-                                    <div class="about-icon-item">
-                                        <div class="ab-icon ab-icon2">
-                                            <img draggable="false" src="assets/images/about/2.png" alt="">
-                                        </div>
-                                        <div class="ab-text">
-                                            <h2><a href="causes-single.html">Fresh And <br> Clean Water.</a></h2>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
+                           
                         </div>
                     </div>
                 </div>
@@ -394,50 +397,53 @@ include('inc/header.php')
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <div class="event-item">
+                    <div class="event-item">
                             <div class="event-img">
-                                <img src="assets/images/event/wmd.jpeg" alt="">
+                                <img src="assets/images/media/logo.jpg" alt="">
                             </div>
                             <div class="event-text">
                                 <div class="event-left">
                                     <div class="event-l-text">
-                                        <span>April</span>
+                                        <span>June</span>
                                         <h4>2021</h4>
                                     </div>
                                 </div>
                                 <div class="event-right">
                                     <ul>
                                         <!--<li><i class="ti-location-pin"></i> 8:00 AM - 4:00 PM</li>-->
-                                        <li><i class="ti-location-pin"></i> Global</li>
+                                        <li><i class="ti-location-pin"></i> 13 States</li>
                                     </ul>
-                                    <h2><a href="event.html">World Malaria Day</a></h2>
+                                    <h2><a href="https://docpetinfo.com/2021/06/10/malaria-eradication-acomin-begins-new-funding-model-3-community-led-monitoring-program/" target="_blank">Malaria Eradication: ACOMIN begins new funding model 3, 
+                                    Community Led Monitoring program</a></h2>
                                     <p>
                                     </p>
                                 </div>
                             </div>
                         </div>
-                          <div class="event-item">
+                    <div class="event-item">
                             <div class="event-img">
-                                <img src="assets/images/event/madamfati.jpeg" alt="">
+                                <img src="assets/images/media/eve.jpg" alt="">
                             </div>
                             <div class="event-text">
                                 <div class="event-left">
                                     <div class="event-l-text">
-                                        <span>April</span>
+                                        <span>June</span>
                                         <h4>2021</h4>
                                     </div>
                                 </div>
                                 <div class="event-right">
                                     <ul>
                                         <!--<li><i class="ti-location-pin"></i> 8:00 AM - 4:00 PM</li>-->
-                                        <li><i class="ti-location-pin"></i> Global</li>
+                                        <li><i class="ti-location-pin"></i> Abuja</li>
                                     </ul>
-                                    <h2><a href="event.html">World Malaria Day</a></h2>
-                                    <p>Celebrating African Women in Malaria Response
+                                    <h2><a href="https://radionigeriaabuja.gov.ng/natl-malaria-control-prog-steps-up-fight-against-the-disease/" target="_blank">Community Led Monitoring Project on Malaria</a></h2>
+                                    <p>
                                     </p>
                                 </div>
                             </div>
                         </div>
+                        
+                      
                         <div class="event-item">
                             <div class="event-img">
                                 <img src="assets/images/event/kab.jpg" alt="">
@@ -486,6 +492,7 @@ include('inc/header.php')
                         </div>
                         
                     </div>
+                   
                 </div>
             </div>
             <div class="shape1"><img src="assets/images/event/1.png" alt=""></div>
